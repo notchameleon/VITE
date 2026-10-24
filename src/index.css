@@ -1,0 +1,36 @@
+body
+{
+  font-family: system-ui, sans-serif;
+  background: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  padding: 60px 16px;
+  margin: 0;
+}
+
+.card
+{
+  background: white;
+  padding: 28px;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.88);
+  width: 100%;
+  max-width: 480px;
+}
+
+
+h1
+{
+  margin-top: 0;
+  font-size: 1.4rem;
+}
+
+input
+{
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 12px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
